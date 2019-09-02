@@ -4,7 +4,7 @@
 # ---------------------------------------------------------------
 
 # Site
-title: 努力！奋斗！
+title:自强不息！厚德载物！
 subtitle: 
 description: 
 author: 刘凡非
@@ -78,7 +78,7 @@ plugins:
 favicon: ../images/lfw.png
 
 # Set default keywords (Use a comma to separate)
-keywords: "努力！奋斗！"
+keywords: "自强不息！厚德载物！"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
